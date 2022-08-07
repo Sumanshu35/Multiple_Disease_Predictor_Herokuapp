@@ -1,6 +1,6 @@
 # Multiple_Disease_Predictor_Herokuapp
-# App Link : https://multiple-disease-predictor-sm.herokuapp.com/
-# Streamlit Link: https://sumanshu35-ml-web-app-multiple-disease-prediction-uvxrzp.streamlitapp.com/
+## App Link : https://multiple-disease-predictor-sm.herokuapp.com/
+## Streamlit: https://sumanshu35-ml-web-app-multiple-disease-prediction-uvxrzp.streamlitapp.com/
 
 Created Diabetes, Heart Disease, Parkinsons Disease Prediction systems using SVM and Logistic Regression techniques. 
 Created a Web App using Streamlit and deployed it on HEROKU and Streamlitcloud.
